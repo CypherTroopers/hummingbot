@@ -1,4 +1,4 @@
-````markdown
+
 # How to Run Hummingbot for CPH/USDT on MEXC
 
 ## Introduction
@@ -107,4 +107,4 @@ Enter `start` to launch the bot. Use `status` to check your current orders and b
 
 ## Summary
 Once the bot is running, check the order book and trade history regularly, and fine-tune the spread and order amount to optimize performance. Profits depend on market movements and fees, and you may incur losses. Always start with a small amount.
-````
+
